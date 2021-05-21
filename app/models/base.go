@@ -7,7 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/go-delve/delve/pkg/config"
+	"sample_todo/config"
+	//"github.com/go-delve/delve/pkg/config"
 	"github.com/google/uuid"
 	"github.com/lib/pq"
 	//_ "github.com/mattn/go-sqlite3"
